@@ -1,7 +1,7 @@
-### Hi there 👋, I am Divya Vijaykumar!
+### Hi there 👋, I am V Divya!
 
 Computer and Communication Engineering (2022–2026) student with a Minor in Data Science at Amrita Vishwa Vidyapeetham, Chennai.  
-Focused on bridging intelligent perception with practical robotics and hardware-aware edge deployment.
+
 
 ---
 
@@ -21,6 +21,6 @@ Focused on bridging intelligent perception with practical robotics and hardware-
 ---
 
 #### 📫 Connect & Repositories
--💼 **LinkedIn:** [v-divya](https://www.linkedin.com/in/v-divya-399717283)
+- 💼 **LinkedIn:** [v-divya](https://www.linkedin.com/in/v-divya-399717283)
 - ✉️ **Email:** divyavijayakumar409@gmail.com
 -  🎓 **Google Scholar:** [Divya Vijaykumar](https://scholar.google.com/citations?user=dbZjNUIAAAAJ&hl=en)
