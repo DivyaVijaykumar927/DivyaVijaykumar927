@@ -7,7 +7,7 @@ Computer and Communication Engineering (2022–2026) student with a Minor in Dat
 
 #### 🔭 Areas of Interest
 - **AI, Machine Learning & Vision:** Deep learning, medical image analysis, object detection, and edge-optimized inference.
-- **Robotics & Autonomous Systems:** ROS 2 middleware, URDF/Xacro modeling, Gazebo/RViz simulation, and autonomous motion planning.
+- **Robotics & Autonomous Systems:** ROS 2 , URDF/Xacro modeling, Gazebo.
 
 ---
 
